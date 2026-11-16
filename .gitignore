@@ -1,0 +1,16 @@
+/AGENTS.md
+/HANDOFF.md
+/mobctrl.keystore
+/build_out/
+/build_elite/
+/diagnostics/
+/release/
+/work/
+/.gradle/
+/module/.gradle/
+/module/local.properties
+/module/**/build/
+*.apk
+*.idsig
+*.jks
+*.keystore
